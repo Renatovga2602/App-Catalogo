@@ -8,7 +8,7 @@ export default class Itens extends Component {
 
     render() {
         return (
-            <Text>Detalhes Intens</Text>
+            <Text>Detalhes Itens</Text>
         );
     }
 }
