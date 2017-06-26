@@ -13,6 +13,4 @@ class app4 extends Component {
   }
 }
 
-
-
 AppRegistry.registerComponent('app4', () => app4);
